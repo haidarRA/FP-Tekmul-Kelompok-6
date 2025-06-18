@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>Cat Breed Predictor - AR.js 3D Text</title>
+
+    <script src="https://aframe.io/releases/1.4.0/aframe.min.js"></script>
+    <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <style>
+        body { margin: 0; overflow: hidden; }
+        a-scene {
+            width: 100vw;
+            height: 100vh;
+        }
+        #loadingIndicator {
+            position: fixed;
+            top: 10px;
+            left: 10px;
+            background-color: rgba(255,0,0,0.8);
+            color: white;
+            padding: 8px;
+            border-radius: 5px;
+            font-family: sans-serif;
+            z-index: 101;
+            display: none;
+        }
+        #generalInfoPanel {
+            position: fixed;
+            bottom: 10px;
+            left: 10px;
+            background-color: rgba(0,0,0,0.7);
+            color: white;
+            padding: 10px;
+            border-radius: 5px;
+            max-width: 80%;
+            font-family: sans-serif;
+            z-index: 100;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body style='margin : 0px; overflow: hidden;'>
+    <div id="loadingIndicator">Memproses...</div>
+    <div id="generalInfoPanel">Arahkan kamera ke kucing...</div>
+
+    <a-scene embedded
+             arjs='sourceType: webcam; debugUIEnabled: false; trackingMethod: best;'>
+
+        <a-camera id="arCamera" user-height="0" look-controls-enabled="false" arjs-look-controls="smoothingFactor: 0.1"></a-camera>
+
+        <a-entity id="catTextLabelContainer_sceneLevel">
+            <a-text id="catText_0"
+                value="Text0 Init"
+                visible="false"
+                position="0 1.5 -2"
+                scale="0.12 0.12 0.12"
+                color="yellow"
+                align="center"
+                text="width: 6;
+                    wrapCount: 35;
+                    lineHeight: 60;
+                    anchor: center;
+                    baseline: bottom;"
+                geometry="primitive: plane; width: auto; height: auto; buffer: true; padding: 0.1"
+                material="shader: flat; color: #000000; transparent: true; opacity: 0.7;">
+            </a-text>
+        </a-entity>
+    </a-scene>
+
+    <script src="{{ url_for('static', filename='js/arjs-logic.js') }}"></script>
+</body>
+</html>
