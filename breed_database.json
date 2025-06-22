@@ -1,0 +1,398 @@
+{
+  "persian": {
+    "description": "Kucing berbulu panjang dengan wajah datar dan mata besar. Berasal dari Iran, dikenal sangat tenang dan penyayang.",
+    "temperament": "Tenang, Manis, Penyayang",
+    "origin": "Iran (Persia)",
+    "lifespan": "12-17 tahun"
+  },
+  "siamese": {
+    "description": "Kucing aktif dengan mata biru menawan dan pola colorpoint. Sangat vokal dan suka berinteraksi dengan manusia.",
+    "temperament": "Aktif, Vokal, Sosial",
+    "origin": "Thailand",
+    "lifespan": "12-20 tahun"
+  },
+  "maine_coon": {
+    "description": "Salah satu kucing terbesar dengan bulu tebal dan ekor berbulu. Dikenal ramah dan suka bermain.",
+    "temperament": "Ramah, Cerdas, Suka Bermain",
+    "origin": "Amerika Serikat",
+    "lifespan": "12-15 tahun"
+  },
+  "british_shorthair": {
+    "description": "Kucing dengan tubuh bulat dan bulu pendek padat. Memiliki pipi chubby yang menggemaskan.",
+    "temperament": "Tenang, Mandiri, Penyayang",
+    "origin": "Inggris",
+    "lifespan": "12-20 tahun"
+  },
+  "sphynx": {
+    "description": "Kucing tanpa bulu dengan kulit hangat. Sangat energik dan suka menjadi pusat perhatian.",
+    "temperament": "Energik, Sosial, Suka Perhatian",
+    "origin": "Kanada",
+    "lifespan": "13-15 tahun"
+  },
+  "ragdoll": {
+    "description": "Kucing besar dengan bulu semi-panjang dan mata biru. Terkenal karena sifatnya yang sangat jinak.",
+    "temperament": "Jinak, Tenang, Penyayang",
+    "origin": "Amerika Serikat",
+    "lifespan": "12-15 tahun"
+  },
+  "bengal": {
+    "description": "Kucing dengan pola spotted seperti macan tutul. Sangat aktif dan atletis.",
+    "temperament": "Aktif, Atletis, Cerdas",
+    "origin": "Amerika Serikat",
+    "lifespan": "13-16 tahun"
+  },
+  "munchkin": {
+    "description": "Kucing dengan kaki pendek yang unik. Meskipun kaki pendek, mereka sangat lincah dan playful.",
+    "temperament": "Playful, Outgoing, Cerdas",
+    "origin": "Amerika Serikat",
+    "lifespan": "12-15 tahun"
+  },
+  "scottish_fold": {
+    "description": "Kucing dengan telinga yang terlipat ke depan. Memiliki wajah bulat dan mata besar yang ekspresif.",
+    "temperament": "Tenang, Manis, Penyayang",
+    "origin": "Skotlandia",
+    "lifespan": "11-15 tahun"
+  },
+  "american_shorthair": {
+    "description": "Kucing kekar dengan bulu pendek yang mudah dirawat. Kucing keluarga yang ideal.",
+    "temperament": "Ramah, Easy-going, Sehat",
+    "origin": "Amerika Serikat",
+    "lifespan": "13-17 tahun"
+  },
+  "russian_blue": {
+    "description": "Kucing dengan bulu abu-abu biru yang indah dan mata hijau zamrud. Sifatnya pemalu tapi setia.",
+    "temperament": "Pemalu, Setia, Cerdas",
+    "origin": "Rusia",
+    "lifespan": "15-18 tahun"
+  },
+  "abyssinian": {
+    "description": "Kucing aktif dengan bulu ticked yang unik. Sangat curious dan suka memanjat.",
+    "temperament": "Aktif, Curious, Atletis",
+    "origin": "Ethiopia",
+    "lifespan": "12-15 tahun"
+  },
+  "american_bobtail": {
+    "description": "Kucing dengan ekor pendek yang unik dan tubuh atletis. Dikenal cerdas dan suka bermain.",
+    "temperament": "Cerdas, Aktif, Ramah",
+    "origin": "Amerika Serikat",
+    "lifespan": "13-15 tahun"
+  },
+  "american_curl": {
+    "description": "Kucing dengan telinga yang melengkung ke belakang. Memiliki sifat yang manis dan penyayang.",
+    "temperament": "Manis, Penyayang, Cerdas",
+    "origin": "Amerika Serikat",
+    "lifespan": "12-16 tahun"
+  },
+  "american_wirehair": {
+    "description": "Kucing dengan bulu kasar dan keriting yang unik. Memiliki sifat yang tenang dan mandiri.",
+    "temperament": "Tenang, Mandiri, Penyayang",
+    "origin": "Amerika Serikat",
+    "lifespan": "14-18 tahun"
+  },
+  "balinese": {
+    "description": "Kucing dengan bulu semi-panjang dan pola colorpoint. Sangat elegan dan vokal.",
+    "temperament": "Elegan, Vokal, Sosial",
+    "origin": "Amerika Serikat",
+    "lifespan": "12-16 tahun"
+  },
+  "birman": {
+    "description": "Kucing dengan bulu semi-panjang dan mata biru yang menawan. Dikenal sebagai 'Sacred Cat of Burma'.",
+    "temperament": "Tenang, Manis, Setia",
+    "origin": "Myanmar",
+    "lifespan": "12-16 tahun"
+  },
+  "bombay": {
+    "description": "Kucing hitam mengkilap dengan mata kuning yang mencolok. Dikenal sebagai 'miniature panther'.",
+    "temperament": "Ramah, Aktif, Cerdas",
+    "origin": "Amerika Serikat",
+    "lifespan": "12-16 tahun"
+  },
+  "burmese": {
+    "description": "Kucing dengan bulu pendek mengkilap dan mata kuning yang ekspresif. Sangat sosial dan penyayang.",
+    "temperament": "Sosial, Penyayang, Aktif",
+    "origin": "Myanmar",
+    "lifespan": "10-16 tahun"
+  },
+  "chartreux": {
+    "description": "Kucing dengan bulu abu-abu biru tebal dan mata oranye. Dikenal sebagai 'smiling cat of France'.",
+    "temperament": "Tenang, Cerdas, Setia",
+    "origin": "Prancis",
+    "lifespan": "12-15 tahun"
+  },
+  "chausie": {
+    "description": "Kucing hibrida dengan penampilan liar tapi sifat domestik. Sangat atletis dan cerdas.",
+    "temperament": "Atletis, Cerdas, Aktif",
+    "origin": "Amerika Serikat",
+    "lifespan": "12-14 tahun"
+  },
+  "cornish_rex": {
+    "description": "Kucing dengan bulu keriting pendek dan tubuh ramping. Sangat energik dan suka memanjat.",
+    "temperament": "Energik, Aktif, Cerdas",
+    "origin": "Inggris",
+    "lifespan": "11-15 tahun"
+  },
+  "cymric": {
+    "description": "Kucing tanpa ekor dengan bulu semi-panjang. Memiliki tubuh bulat dan sifat yang tenang.",
+    "temperament": "Tenang, Manis, Penyayang",
+    "origin": "Kanada",
+    "lifespan": "12-15 tahun"
+  },
+  "cyprus": {
+    "description": "Kucing alami dari pulau Cyprus. Memiliki bulu pendek dan sifat yang mandiri.",
+    "temperament": "Mandiri, Aktif, Cerdas",
+    "origin": "Cyprus",
+    "lifespan": "12-16 tahun"
+  },
+  "devon_rex": {
+    "description": "Kucing dengan bulu keriting pendek dan telinga besar. Dikenal sebagai 'pixie cat'.",
+    "temperament": "Playful, Cerdas, Sosial",
+    "origin": "Inggris",
+    "lifespan": "10-15 tahun"
+  },
+  "donskoy": {
+    "description": "Kucing tanpa bulu dengan kulit berkerut. Sangat hangat dan suka kontak fisik.",
+    "temperament": "Hangat, Sosial, Cerdas",
+    "origin": "Rusia",
+    "lifespan": "12-15 tahun"
+  },
+  "egyptian_mau": {
+    "description": "Kucing dengan bulu spotted dan mata hijau yang mencolok. Satu-satunya kucing domestik yang natural spotted.",
+    "temperament": "Aktif, Cerdas, Setia",
+    "origin": "Mesir",
+    "lifespan": "12-15 tahun"
+  },
+  "european_shorthair": {
+    "description": "Kucing alami Eropa dengan bulu pendek. Memiliki sifat yang seimbang dan sehat.",
+    "temperament": "Seimbang, Mandiri, Sehat",
+    "origin": "Eropa",
+    "lifespan": "15-20 tahun"
+  },
+  "exotic_shorthair": {
+    "description": "Kucing dengan wajah datar seperti Persian tapi bulu pendek. Dikenal sebagai 'Persian in pajamas'.",
+    "temperament": "Tenang, Manis, Penyayang",
+    "origin": "Amerika Serikat",
+    "lifespan": "12-15 tahun"
+  },
+  "german_rex": {
+    "description": "Kucing dengan bulu keriting pendek. Memiliki sifat yang ramah dan suka bermain.",
+    "temperament": "Ramah, Playful, Cerdas",
+    "origin": "Jerman",
+    "lifespan": "12-15 tahun"
+  },
+  "havana_brown": {
+    "description": "Kucing dengan bulu coklat mengkilap dan mata hijau. Dikenal sebagai 'chocolate cat'.",
+    "temperament": "Cerdas, Sosial, Aktif",
+    "origin": "Inggris",
+    "lifespan": "12-15 tahun"
+  },
+  "himalayan": {
+    "description": "Kucing dengan bulu panjang dan pola colorpoint. Kombinasi Persian dan Siamese.",
+    "temperament": "Tenang, Manis, Penyayang",
+    "origin": "Amerika Serikat",
+    "lifespan": "12-15 tahun"
+  },
+  "japanese_bobtail": {
+    "description": "Kucing dengan ekor pendek yang unik dan bulu tri-color. Dikenal sebagai simbol keberuntungan.",
+    "temperament": "Aktif, Cerdas, Sosial",
+    "origin": "Jepang",
+    "lifespan": "12-16 tahun"
+  },
+  "karelian_bobtail": {
+    "description": "Kucing dengan ekor pendek dan bulu semi-panjang. Memiliki sifat yang mandiri dan cerdas.",
+    "temperament": "Mandiri, Cerdas, Aktif",
+    "origin": "Rusia",
+    "lifespan": "12-15 tahun"
+  },
+  "khao_manee": {
+    "description": "Kucing putih dengan mata biru atau odd-eyed. Dikenal sebagai 'diamond eye cat'.",
+    "temperament": "Cerdas, Aktif, Sosial",
+    "origin": "Thailand",
+    "lifespan": "10-15 tahun"
+  },
+  "korat": {
+    "description": "Kucing dengan bulu abu-abu biru mengkilap dan mata hijau. Dikenal sebagai simbol keberuntungan.",
+    "temperament": "Cerdas, Setia, Aktif",
+    "origin": "Thailand",
+    "lifespan": "15-18 tahun"
+  },
+  "korean_bobtail": {
+    "description": "Kucing dengan ekor pendek dan bulu semi-panjang. Memiliki sifat yang ramah dan cerdas.",
+    "temperament": "Ramah, Cerdas, Aktif",
+    "origin": "Korea",
+    "lifespan": "12-15 tahun"
+  },
+  "kurilian_bobtail": {
+    "description": "Kucing dengan ekor pendek dan bulu semi-panjang. Memiliki sifat yang mandiri dan cerdas.",
+    "temperament": "Mandiri, Cerdas, Aktif",
+    "origin": "Rusia",
+    "lifespan": "12-15 tahun"
+  },
+  "laperm": {
+    "description": "Kucing dengan bulu keriting yang unik. Memiliki sifat yang ramah dan penyayang.",
+    "temperament": "Ramah, Penyayang, Cerdas",
+    "origin": "Amerika Serikat",
+    "lifespan": "12-15 tahun"
+  },
+  "lykoi": {
+    "description": "Kucing dengan bulu yang menyerupai serigala. Dikenal sebagai 'werewolf cat'.",
+    "temperament": "Aktif, Cerdas, Sosial",
+    "origin": "Amerika Serikat",
+    "lifespan": "12-15 tahun"
+  },
+  "manx": {
+    "description": "Kucing tanpa ekor dengan bulu pendek atau panjang. Memiliki tubuh bulat dan sifat yang tenang.",
+    "temperament": "Tenang, Cerdas, Setia",
+    "origin": "Isle of Man",
+    "lifespan": "12-15 tahun"
+  },
+  "mekong_bobtail": {
+    "description": "Kucing dengan ekor pendek dan bulu semi-panjang. Memiliki sifat yang ramah dan cerdas.",
+    "temperament": "Ramah, Cerdas, Aktif",
+    "origin": "Asia Tenggara",
+    "lifespan": "12-15 tahun"
+  },
+  "nebelung": {
+    "description": "Kucing dengan bulu abu-abu biru panjang dan mata hijau. Dikenal sebagai 'longhaired Russian Blue'.",
+    "temperament": "Pemalu, Setia, Cerdas",
+    "origin": "Amerika Serikat",
+    "lifespan": "15-18 tahun"
+  },
+  "norwegian_forest_cat": {
+    "description": "Kucing besar dengan bulu semi-panjang tebal. Dikenal sebagai 'skogkatt' di Norwegia.",
+    "temperament": "Mandiri, Cerdas, Aktif",
+    "origin": "Norwegia",
+    "lifespan": "14-16 tahun"
+  },
+  "ocicat": {
+    "description": "Kucing dengan pola spotted seperti macan tutul. Memiliki sifat yang aktif dan cerdas.",
+    "temperament": "Aktif, Cerdas, Sosial",
+    "origin": "Amerika Serikat",
+    "lifespan": "12-15 tahun"
+  },
+  "oregon_rex": {
+    "description": "Kucing dengan bulu keriting pendek. Memiliki sifat yang ramah dan suka bermain.",
+    "temperament": "Ramah, Playful, Cerdas",
+    "origin": "Amerika Serikat",
+    "lifespan": "12-15 tahun"
+  },
+  "oriental_shorthair": {
+    "description": "Kucing dengan tubuh ramping dan bulu pendek. Sangat vokal dan suka perhatian.",
+    "temperament": "Vokal, Aktif, Sosial",
+    "origin": "Thailand",
+    "lifespan": "12-15 tahun"
+  },
+  "peterbald": {
+    "description": "Kucing tanpa bulu atau bulu sangat pendek. Memiliki tubuh ramping dan sifat yang cerdas.",
+    "temperament": "Cerdas, Aktif, Sosial",
+    "origin": "Rusia",
+    "lifespan": "12-15 tahun"
+  },
+  "pixie_bob": {
+    "description": "Kucing dengan penampilan seperti lynx domestik. Memiliki sifat yang ramah dan setia.",
+    "temperament": "Ramah, Setia, Cerdas",
+    "origin": "Amerika Serikat",
+    "lifespan": "13-15 tahun"
+  },
+  "ragamuffin": {
+    "description": "Kucing besar dengan bulu semi-panjang dan sifat yang sangat jinak. Dikenal sebagai 'gentle giant'.",
+    "temperament": "Jinak, Tenang, Penyayang",
+    "origin": "Amerika Serikat",
+    "lifespan": "12-16 tahun"
+  },
+  "safari": {
+    "description": "Kucing hibrida dengan penampilan liar. Sangat atletis dan cerdas.",
+    "temperament": "Atletis, Cerdas, Aktif",
+    "origin": "Amerika Serikat",
+    "lifespan": "12-15 tahun"
+  },
+  "savannah": {
+    "description": "Kucing hibrida besar dengan penampilan seperti serval. Sangat atletis dan cerdas.",
+    "temperament": "Atletis, Cerdas, Aktif",
+    "origin": "Amerika Serikat",
+    "lifespan": "12-15 tahun"
+  },
+  "selkirk_rex": {
+    "description": "Kucing dengan bulu keriting yang unik. Memiliki sifat yang tenang dan penyayang.",
+    "temperament": "Tenang, Penyayang, Cerdas",
+    "origin": "Amerika Serikat",
+    "lifespan": "12-15 tahun"
+  },
+  "serengeti": {
+    "description": "Kucing dengan penampilan seperti serval tapi ukuran domestik. Sangat atletis dan cerdas.",
+    "temperament": "Atletis, Cerdas, Aktif",
+    "origin": "Amerika Serikat",
+    "lifespan": "12-15 tahun"
+  },
+  "siberian": {
+    "description": "Kucing besar dengan bulu semi-panjang tebal. Dikenal sebagai kucing hypoallergenic.",
+    "temperament": "Ramah, Cerdas, Aktif",
+    "origin": "Rusia",
+    "lifespan": "12-15 tahun"
+  },
+  "singapura": {
+    "description": "Kucing terkecil di dunia dengan bulu pendek. Dikenal sebagai 'little lion'.",
+    "temperament": "Aktif, Cerdas, Sosial",
+    "origin": "Singapura",
+    "lifespan": "12-15 tahun"
+  },
+  "sokoke": {
+    "description": "Kucing dengan bulu pendek dan pola tabby yang unik. Memiliki sifat yang aktif dan cerdas.",
+    "temperament": "Aktif, Cerdas, Mandiri",
+    "origin": "Kenya",
+    "lifespan": "12-15 tahun"
+  },
+  "somali": {
+    "description": "Kucing dengan bulu semi-panjang dan pola ticked. Dikenal sebagai 'longhaired Abyssinian'.",
+    "temperament": "Aktif, Cerdas, Sosial",
+    "origin": "Amerika Serikat",
+    "lifespan": "12-15 tahun"
+  },
+  "thai": {
+    "description": "Kucing dengan bulu pendek dan pola colorpoint. Dikenal sebagai 'traditional Siamese'.",
+    "temperament": "Aktif, Vokal, Sosial",
+    "origin": "Thailand",
+    "lifespan": "12-15 tahun"
+  },
+  "tonkinese": {
+    "description": "Kucing dengan bulu pendek dan pola mink. Kombinasi Burmese dan Siamese.",
+    "temperament": "Aktif, Sosial, Cerdas",
+    "origin": "Amerika Serikat",
+    "lifespan": "12-15 tahun"
+  },
+  "toyger": {
+    "description": "Kucing dengan pola seperti harimau mini. Dikenal sebagai 'toy tiger'.",
+    "temperament": "Aktif, Cerdas, Sosial",
+    "origin": "Amerika Serikat",
+    "lifespan": "12-15 tahun"
+  },
+  "turkish_angora": {
+    "description": "Kucing dengan bulu putih panjang dan mata biru atau odd-eyed. Sangat elegan dan aktif.",
+    "temperament": "Elegan, Aktif, Cerdas",
+    "origin": "Turki",
+    "lifespan": "12-18 tahun"
+  },
+  "turkish_van": {
+    "description": "Kucing dengan bulu semi-panjang dan pola van. Dikenal sebagai 'swimming cat'.",
+    "temperament": "Aktif, Cerdas, Sosial",
+    "origin": "Turki",
+    "lifespan": "12-15 tahun"
+  },
+  "ukrainian_levkoy": {
+    "description": "Kucing tanpa bulu dengan telinga terlipat. Memiliki sifat yang hangat dan cerdas.",
+    "temperament": "Hangat, Cerdas, Sosial",
+    "origin": "Ukraina",
+    "lifespan": "12-15 tahun"
+  },
+  "ural_rex": {
+    "description": "Kucing dengan bulu keriting pendek. Memiliki sifat yang ramah dan suka bermain.",
+    "temperament": "Ramah, Playful, Cerdas",
+    "origin": "Rusia",
+    "lifespan": "12-15 tahun"
+  },
+  "vankedisi": {
+    "description": "Kucing dengan bulu putih panjang dan mata biru atau odd-eyed. Dikenal sebagai 'Turkish Van Cat'.",
+    "temperament": "Aktif, Cerdas, Sosial",
+    "origin": "Turki",
+    "lifespan": "12-15 tahun"
+  }
+} 
